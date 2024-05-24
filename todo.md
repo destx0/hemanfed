@@ -7,3 +7,7 @@
 federated meta learning over insecure communication channel using multikey, homomorphic encryption
 
 new drone code is nice input is in df only
+
+
+plot -agregatiopn with /o encry
+trainging one rount with with enc
