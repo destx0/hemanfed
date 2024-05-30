@@ -8,3 +8,5 @@ drone
 models
 *.pkl
 *.pth
+data
+*.pt
